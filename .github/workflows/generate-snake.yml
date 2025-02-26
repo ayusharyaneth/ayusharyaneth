@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest  
     steps:  
       - name: Checkout Repository  
-        uses: actions/checkout@v3  
+        uses: actions/checkout@v4  # Updated to latest version  
 
       - name: Generate Contribution Snake  
         uses: Platane/snk@v3  
@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark  
 
       - name: Upload Snake Animation  
-        uses: actions/upload-artifact@v3  
+        uses: actions/upload-artifact@v4  # ✅ FIXED: Updated to v4  
         with:  
           name: contribution-snake  
           path: dist/github-contribution-grid-snake.svg  
