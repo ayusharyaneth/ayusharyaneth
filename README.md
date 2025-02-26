@@ -65,16 +65,21 @@ The two powerful technologies I use for building efficient Web3 solutions:
   </a>
 </p>
 
----  
-  
-## 🌐 **Connect with Me!**    
-I’d love to connect and collaborate with like-minded individuals. Here are my social profiles:  
-  
-- **Telegram**: [@AyushAryaneth](https://t.me/AyushAryaneth)    
-   
-- **Twitter**: [@AyushAryaneth](https://twitter.com/AyushAryaneth)  
-  
----  
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://t.me/AyushAryaneth">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://twitter.com/AyushAryaneth">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
   
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
