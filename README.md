@@ -94,9 +94,9 @@ Here’s a quick look at my core expertise:
 <p align="center">
   <a href="https://t.me/AyushAryaneth">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://twitter.com/AyushAryaneth">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> </a>
+  <a href="https://x.com/ayusharyaneth" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
   </a>
 </p>
 
