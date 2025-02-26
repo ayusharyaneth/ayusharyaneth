@@ -92,7 +92,6 @@ Here’s a quick look at my core expertise:
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
 
----
 
   
   <!-- Footer -->
@@ -102,7 +101,7 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
   
   <p>
     Copyright &copy; 2023-present 
-    <a href="https://github.com/EchoSingh" target="_blank">Aditya Singh</a>
+    <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
   </p>
   
   <p>
