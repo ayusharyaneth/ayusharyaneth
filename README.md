@@ -63,6 +63,15 @@ Here’s a quick look at my core expertise:
   </a>
 </p>
 
+
+### **📈 Activity Graph**  
+<p align="center">  
+  <a href="https://github.com/ayusharyaneth">  
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusharyaneth&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />  
+  </a>  
+</p>  
+
+
 ---
 
 ## 🌍 Connect With Me  
