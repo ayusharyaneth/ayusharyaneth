@@ -5,12 +5,13 @@ on:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC  
   workflow_dispatch:  
 
+permissions:
+  contents: write  
+
 jobs:  
   generate:  
     runs-on: ubuntu-latest  
-    permissions:  
-      contents: write  
-      
+    
     steps:  
       - name: Checkout Repository  
         uses: actions/checkout@v4  
@@ -20,24 +21,21 @@ jobs:
         with:  
           github_user_name: ayusharyaneth  # Replace with your GitHub username  
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark  
-
-      - name: Ensure Correct File Permissions  
-        run: chmod -R 777 .  
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark  
 
       - name: Create Output Directory  
         run: mkdir -p output  
 
-      - name: Move Generated Files  
+      - name: Copy Generated Files  
         run: |  
-          mv github-snake.svg output/github-snake.svg  
-          mv github-snake-dark.svg output/github-snake-dark.svg  
+          cp github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg  
+          cp github-contribution-grid-snake-dark.svg output/github-contribution-grid-snake-dark.svg  
 
-      - name: Commit and Push to the Output Branch  
+      - name: Commit and Push to Repository  
         run: |  
           git config --global user.email "github-actions@github.com"  
           git config --global user.name "github-actions"  
-          git add output/github-snake.svg output/github-snake-dark.svg  
+          git add output/github-contribution-grid-snake.svg output/github-contribution-grid-snake-dark.svg  
           git commit -m "🐍 Updated Contribution Snake" || echo "No changes to commit"  
           git push origin main
