@@ -5,7 +5,7 @@
 ---  
   
 ## 🔥 **On a Mission to Simplify Web3**    
-I’m ***Ayush***, a passionate **blockchain innovator** and **crypto explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
+I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
   
 ---  
   
