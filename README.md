@@ -6,6 +6,13 @@
 </p>  
 
 ---  
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ayush+Here!;Building+Web3+Automation+%F0%9F%9A%80">
+</h1>
+
+---
   
 ## 🔥 **On a Mission to Simplify Web3**    
 I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
