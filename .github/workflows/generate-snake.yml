@@ -15,7 +15,7 @@ jobs:
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ayusharyaneth  # Your GitHub username
+          github_user_name: ayusharyaneth  # Change this to your GitHub username
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
