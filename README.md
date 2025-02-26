@@ -126,3 +126,12 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
 </div>
 
 ---
+
+
+
+
+## 🐍 **3D Contribution Snake (Auto-Updates Daily!)**
+> *Watch your commits slither into history!*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake.svg" />
+</p>
