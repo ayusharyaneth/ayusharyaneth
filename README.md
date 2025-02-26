@@ -1,7 +1,14 @@
 # 🔧 **Unleash Web3 Automation Magic!!**  
   
 ![Profile Views](https://komarev.com/ghpvc/?username=ayusharyaneth&color=blue)  
-  
+
+
+ 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&label=Profile%20Views&color=blue&style=flat" alt="ayusharyaneth" />  
+  <a href="https://github.com/ayusharyaneth?tab=followers"><img src="https://img.shields.io/github/followers/ayusharyaneth?label=Followers&style=social" alt="GitHub Followers"></a>  
+</p>  
+
 ---  
   
 ## 🔥 **On a Mission to Simplify Web3**    
