@@ -25,24 +25,22 @@ Here’s a quick look at my core expertise:
 - **Blockchain Security**: Ensuring robust security for decentralized applications and systems.  
   
 ---  
-  
-## 🛠️ **Tech Stack**  
 
-The two powerful technologies I use for building efficient Web3 solutions:
+## 🛠️ Tech Stack  
 
-### **JavaScript – The Backbone of Modern Web**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
+<h3 align="center">⚡ JavaScript & Node.js</h3>  
+<p align="center">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
+</p>  
 
-### **Python – Versatile Backend Solutions**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
+<h3 align="center">🐍 Python & Django</h3>  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
+</p>  
 
----  
+---
 
 
 ## 📊 **GitHub Stats – Development Journey**  
