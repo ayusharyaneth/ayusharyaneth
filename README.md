@@ -91,3 +91,25 @@ Here’s a quick look at my core expertise:
   
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
+
+---
+
+  
+  <!-- Footer -->
+  <p>
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
+  
+  <p>
+    Copyright &copy; 2023-present 
+    <a href="https://github.com/EchoSingh" target="_blank">Aditya Singh</a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/EchoSingh/EchoSingh/blob/main/LICENSE">
+      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
+    </a>
+  </p>
+</div>
+
+---
