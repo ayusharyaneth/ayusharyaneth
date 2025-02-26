@@ -2,6 +2,8 @@
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&label=Profile%20Views&color=blue&style=flat" alt="ayusharyaneth" />  
+</p>
+  <p align="center">
   <a href="https://github.com/ayusharyaneth?tab=followers"><img src="https://img.shields.io/github/followers/ayusharyaneth?label=Followers&style=social" alt="GitHub Followers"></a>  
   <a href="https://github.com/ayusharyaneth?tab=stars"><img src="https://img.shields.io/github/stars/ayusharyaneth?label=Stars&style=social" alt="Stars"></a>  
 
