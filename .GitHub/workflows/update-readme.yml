@@ -1,0 +1,32 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Top Repositories
+        run: |
+          curl -s "https://api.github.com/users/ayusharyaneth/repos?per_page=100&sort=stars" | 
+          jq -r '[.[] | {name: .name, stars: .stargazers_count, forks: .forks_count}] | sort_by(-.stars, -.forks) | .[:2]' > repos.json
+      
+      - name: Update README
+        run: |
+          repo1=$(jq -r '.[0].name' repos.json)
+          repo2=$(jq -r '.[1].name' repos.json)
+          sed -i "s|REPO1|$repo1|g" README.md
+          sed -i "s|REPO2|$repo2|g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git commit -am "Updated top repositories"
+          git push
