@@ -65,9 +65,10 @@ Here’s a quick look at my core expertise:
 
 
 ### **📈 Activity Graph**  
+
 <p align="center">  
   <a href="https://github.com/ayusharyaneth">  
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusharyaneth&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusharyaneth&theme=github_dark" alt="Profile Summary" />  
   </a>  
 </p>  
 
