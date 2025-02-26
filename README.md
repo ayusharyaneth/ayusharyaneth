@@ -105,7 +105,7 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
   </p>
   
   <p>
-    <a href="https://github.com/EchoSingh/EchoSingh/blob/main/LICENSE">
+    <a href="https://github.com/Ayusharyaneth/Ayusharyaneth/blob/main/LICENSE">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
     </a>
   </p>
