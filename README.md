@@ -119,7 +119,8 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
   
 ---
   
-  <p>
+ 
+<p align="center">
     Copyright &copy; 2025-present 
     <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
   </p>
