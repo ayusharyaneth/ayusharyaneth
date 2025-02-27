@@ -106,6 +106,18 @@ Here’s a quick look at my core expertise:
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
 
+---
+## 🐍💜 **Watch My Contributions Slither!**
+> *Every commit feeds the snake!* 🌀✨
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
+</p>
+
+---
 
   
   <!-- Footer -->
@@ -124,14 +136,3 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
     </a>
   </p>
 </div>
-
----
-## 🐍💜 **Watch My Contributions Slither!**
-> *Every commit feeds the snake!* 🌀✨
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  </picture>
-</p>
