@@ -123,7 +123,7 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
   </p>
   
   <p>
-    Copyright &copy; 2023-present 
+    Copyright &copy; 2025-present 
     <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
   </p>
   
@@ -133,3 +133,9 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
     </a>
   </p>
 </div>
+
+
+  <p>
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
+  
