@@ -116,9 +116,6 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
     <img src="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </picture>
 </p>
-
----
-
   
   <!-- Footer -->
   <p>
