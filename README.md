@@ -59,7 +59,7 @@ Here’s a quick look at my core expertise:
 
 ## 📊 **GitHub Stats – Development Journey**  
 
-### **Performance Overview**
+### **📈 Performance Overview**
 - Here’s a snapshot of my GitHub activity, contributions, and overall growth:
 
 <p align="center">
@@ -68,7 +68,7 @@ Here’s a quick look at my core expertise:
   </a>
 </p>
 
-### **Top Languages**
+### **📈 Top Languages**
 - Check out the languages that make up the core of my projects:
 
 <p align="center">
