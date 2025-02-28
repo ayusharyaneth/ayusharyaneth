@@ -9,27 +9,41 @@
 
 </p>  
 
----  
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ayush+Here!;Building+Web3+Automation+%F0%9F%9A%80">
 </h1>
 
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
   
 ## 🔥 **On a Mission to Simplify Web3**    
 I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
   
----  
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
   
 ## 🚀 **What Drives Me?**    
 - **Decentralization**: Believing in the power of decentralized systems to transform industries.    
 - **Security**: Dedicated to building **secure** solutions for decentralized finance and crypto.    
 - **Innovation**: Always exploring new ways to optimize Web3 through **smart contracts**, **dApps**, and automation.  
   
----  
-  
+  <!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 ## 🔑 **Skills & Expertise**  
   
 Here’s a quick look at my core expertise:  
@@ -38,7 +52,11 @@ Here’s a quick look at my core expertise:
 - **Smart Contract Development**: Building secure contracts for **DeFi** and beyond.    
 - **Blockchain Security**: Ensuring robust security for decentralized applications and systems.  
   
----  
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 ## 🛠️ Tech Stack  
 
@@ -54,7 +72,11 @@ Here’s a quick look at my core expertise:
   <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
 </p>  
 
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 
 ## 📊 **GitHub Stats – Development Journey**  
@@ -87,7 +109,11 @@ Here’s a quick look at my core expertise:
 </p>  
 
 
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 ## 🌍 Connect With Me  
 
@@ -100,13 +126,20 @@ Here’s a quick look at my core expertise:
   </a>
 </p>
 
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
   
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
 
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 ## 🐍💜 **Watch My Contributions Slither!**
 > *Every commit feeds the snake!* 🌀✨
 
@@ -117,7 +150,11 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
   </picture>
 </p>
   
----
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 <p align="center">
     <a href="https://github.com/ayusharyaneth/ayusharyaneth/blob/main/LICENSE">
