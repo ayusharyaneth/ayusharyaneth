@@ -1,4 +1,11 @@
-# 🔧 **Unleash Web3 Automation Magic!!**  
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,25&height=180&section=header&text=🛠️%20Unleash%20Web3%20Automation%20Magic&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" />
+
+  <!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&label=Profile%20Views&color=blue&style=flat" alt="ayusharyaneth" />  
