@@ -15,9 +15,10 @@
 </p>
 
 <!-- Introduction -->
+<p align="center">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ayush+Here!;Building+Web3+Automation+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+</h1></p>
 
 ## 🔥 On a Mission to Simplify Web3
 
