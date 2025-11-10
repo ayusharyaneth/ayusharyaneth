@@ -73,19 +73,11 @@ I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**
   </a>
 </p>
 
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
   
 ## 🤝 **Let’s Build the Future of Web3 Together!**    
 Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
 
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+
 
 ## 🐍💜 **Watch My Contributions Slither!**
 > *Every commit feeds the snake!* 🌀✨
@@ -111,8 +103,4 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
     <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
   </p>
 
-
-  <p>
-    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
-  </p>
   
