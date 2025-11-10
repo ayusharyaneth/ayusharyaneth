@@ -13,12 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ayush+Here!;Crypto+and+Degen+Maxi+⚡">
 </h1>
 
---
   
 ## 🔥 **On a Mission to Simplify Web3**    
 I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
   
-  --
   
 ## 🛠️ Tech Stack  
 
@@ -33,13 +31,6 @@ I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
   <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
 </p>  
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
 
 ## 📊 **GitHub Stats – Development Journey**  
 
@@ -69,12 +60,6 @@ I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusharyaneth&theme=github_dark" alt="Profile Summary" />  
   </a>  
 </p>  
-
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 
 ## 🌍 Connect With Me  
@@ -111,12 +96,6 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
     <img src="https://raw.githubusercontent.com/ayusharyaneth/ayusharyaneth/main/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </picture>
 </p>
-  
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 
 <p align="center">
     <a href="https://github.com/ayusharyaneth/ayusharyaneth/blob/main/LICENSE">
