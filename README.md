@@ -33,26 +33,7 @@ I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-  
-## 🚀 **What Drives Me?**    
-- **Decentralization**: Believing in the power of decentralized systems to transform industries.    
-- **Security**: Dedicated to building **secure** solutions for decentralized finance and crypto.    
-- **Innovation**: Always exploring new ways to optimize Web3 through **smart contracts**, **dApps**, and automation.  
-  
   <!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🔑 **Skills & Expertise**  
-  
-Here’s a quick look at my core expertise:  
-  
-- **Web3 Automation**: Automating blockchain tasks to enhance efficiency.    
-- **Smart Contract Development**: Building secure contracts for **DeFi** and beyond.    
-- **Blockchain Security**: Ensuring robust security for decentralized applications and systems.  
-  
-<!-- ANIMATED SEPARATOR -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
