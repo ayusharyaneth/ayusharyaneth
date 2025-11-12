@@ -1,3 +1,7 @@
+I’m ***Ayush***, A Passionate **Blockchain Innovator** , **Builder** and **Crypto Explorer**. 
+
+
+
 <!-- Profile Views and Followers -->
 
 <p align="center">  
@@ -8,10 +12,6 @@
   <a href="https://github.com/ayusharyaneth?tab=stars"><img src="https://img.shields.io/github/stars/ayusharyaneth?label=Stars&style=social" alt="Stars"></a>  
 
 </p>  
-
-
-I’m ***Ayush***, A Passionate **Blockchain Innovator** , **Builder** and **Crypto Explorer**. 
-  
   
 ## 🛠️ Tech Stack  
 
