@@ -1,4 +1,4 @@
-I’m ***Ayush***, A Passionate **Blockchain Innovator** , **Builder** and **Crypto Explorer**. 
+<p align="center">  I’m ***Ayush***, A Passionate **Blockchain Innovator** , **Builder** and **Crypto Explorer**. </p>p>
 
 
 
