@@ -27,12 +27,8 @@
   <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
 </p>  
 
-## 📊 **GitHub Stats – Development Journey**  
-
 ### **📈 Performance Overview**
 - Here’s a snapshot of my GitHub Activity:
-
-### **📈 Activity Graph**  
 
 <p align="center">  
   <a href="https://github.com/ayusharyaneth">  
