@@ -30,23 +30,7 @@
 ## 📊 **GitHub Stats – Development Journey**  
 
 ### **📈 Performance Overview**
-- Here’s a snapshot of my GitHub activity, contributions, and overall growth:
-
-<p align="center">
-  <a href="https://github.com/ayusharyaneth">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayusharyaneth&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=500" alt="GitHub Stats" />
-  </a>
-</p>
-
-### **📈 Top Languages**
-- Check out the languages that make up the core of my projects:
-
-<p align="center">
-  <a href="https://github.com/ayusharyaneth">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyaneth&langs_count=5&theme=dark&hide_title=true&hide_border=true&layout=compact&card_width=500" alt="Top Languages" />
-  </a>
-</p>
-
+- Here’s a snapshot of my GitHub Activity:
 
 ### **📈 Activity Graph**  
 
