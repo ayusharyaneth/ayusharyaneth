@@ -48,11 +48,6 @@
   </a>
 </p>
 
-  
-## 🤝 **Let’s Build the Future of Web3 Together!**    
-Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
-
-
 
 ## 🐍💜 **Watch My Contributions Slither!**
 > *Every commit feeds the snake!* 🌀✨
