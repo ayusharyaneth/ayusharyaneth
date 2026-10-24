@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayusharyaneth&bg_color=1a1b27&color=c0caf5&line=70a5fd&point=bb9af7&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="95%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/contribution-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
