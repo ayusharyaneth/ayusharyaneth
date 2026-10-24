@@ -1,18 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/banner.svg?v=2" alt="Ayush — Developer · Automation & Security · Web3" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/hero.svg" alt="Ayush — Developer · Automation & Security · Web3" />
 </p>
 
 <p align="center">
-  <img width="96" src="https://images.weserv.nl/?url=github.com/ayusharyaneth.png&w=192&h=192&fit=cover&mask=circle" alt="Ayush" />
+  <img src="https://img.shields.io/badge/India-IST%20%C2%B7%20UTC%2B5%3A30-292e42?style=flat-square&labelColor=1a1b27" alt="India · IST" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8C-India%20%C2%B7%20IST-70a5fd?style=flat-square&labelColor=1a1b27" alt="India · IST" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Automation%20%26%20Security-7aa2f7?style=flat-square&labelColor=1a1b27" alt="Automation & Security" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Web3-bb9af7?style=flat-square&labelColor=1a1b27" alt="Web3" />
-</p>
-
----
 
 ## 🧭 About
 
