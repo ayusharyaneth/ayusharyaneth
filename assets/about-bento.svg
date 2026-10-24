@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="300" viewBox="0 0 854 300" role="img" aria-label="About Ayush — now building, learning, ask me about, philosophy">
+  <rect width="854" height="300" rx="10" fill="#16161e"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <!-- tile 1: now building -->
+    <rect x="12" y="12" width="409" height="132" rx="8" fill="#1a1b27" stroke="#292e42"/>
+    <g transform="translate(36,34)" fill="none" stroke="#7aa2f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="8,5 2,11 8,17"/>
+      <polyline points="16,5 22,11 16,17"/>
+      <line x1="13.6" y1="3" x2="10.4" y2="19"/>
+    </g>
+    <text x="70" y="52" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#7aa2f7">NOW BUILDING</text>
+    <text x="36" y="90" font-size="13.5" fill="#c0caf5">Automation &amp; security tooling —</text>
+    <text x="36" y="110" font-size="13.5" fill="#c0caf5">bots, scanners, server scripts</text>
+
+    <!-- tile 2: learning -->
+    <rect x="433" y="12" width="409" height="132" rx="8" fill="#1a1b27" stroke="#292e42"/>
+    <g transform="translate(457,34)" fill="none" stroke="#9ece6a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 5.5C10 4 7 4 4.5 5v13C7 17 10 17 12 18.5 14 17 17 17 19.5 18v-13C17 4 14 4 12 5.5z"/>
+      <line x1="12" y1="5.5" x2="12" y2="18.5"/>
+    </g>
+    <text x="491" y="52" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#9ece6a">LEARNING</text>
+    <text x="457" y="90" font-size="13.5" fill="#c0caf5">Web3 &amp; blockchain infrastructure</text>
+
+    <!-- tile 3: ask me about -->
+    <rect x="12" y="156" width="409" height="132" rx="8" fill="#1a1b27" stroke="#292e42"/>
+    <g transform="translate(36,178)" fill="none" stroke="#e0af68" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M5 4h14a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-8l-5 4v-4H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/>
+    </g>
+    <text x="70" y="196" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#e0af68">ASK ME ABOUT</text>
+    <text x="36" y="234" font-size="13.5" fill="#c0caf5">Telegram bots, VirusTotal API,</text>
+    <text x="36" y="254" font-size="13.5" fill="#c0caf5">Bash, VPS automation</text>
+
+    <!-- tile 4: philosophy -->
+    <rect x="433" y="156" width="409" height="132" rx="8" fill="#1a1b27" stroke="#292e42"/>
+    <g transform="translate(457,178)" fill="none" stroke="#bb9af7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13 2 6 13h5l-1 9 8-11h-5l1-9z"/>
+    </g>
+    <text x="491" y="196" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#bb9af7">PHILOSOPHY</text>
+    <text x="457" y="234" font-size="13.5" fill="#c0caf5">Simple, focused tools that just work</text>
+  </g>
+</svg>

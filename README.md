@@ -5,8 +5,10 @@
 
 ## 🧭 About
 
+I build practical tools that solve real problems — bots that hunt malware, scripts that keep servers alive, and apps that respect your privacy.
+
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/about-terminal.svg" alt="About Ayush — terminal profile" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/about-bento.svg" alt="About Ayush — now building, learning, ask me about, philosophy" />
 </p>
 
 ---
