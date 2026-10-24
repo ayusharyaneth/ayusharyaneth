@@ -1,25 +1,27 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1a1b27,55:70a5fd,100:bb9af7" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b27,55:70a5fd,100:bb9af7&text=Ayush&fontSize=44&fontColor=c0caf5&fontAlignY=36&desc=Developer%20%C2%B7%20Automation%20%26%20Security%20%C2%B7%20Web3&descSize=15&descAlignY=54&animation=fadeIn" alt="Ayush — Developer · Automation & Security · Web3" />
 </p>
 
 <p align="center">
-  <img width="110" src="https://images.weserv.nl/?url=github.com/ayusharyaneth.png&w=220&h=220&fit=cover&mask=circle" alt="Ayush" />
+  <img width="96" src="https://images.weserv.nl/?url=github.com/ayusharyaneth.png&w=192&h=192&fit=cover&mask=circle" alt="Ayush" />
 </p>
 
-<h1 align="center">Hi, I'm Ayush&nbsp;👋</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=520&lines=Developer+from+India;Building+automation+%26+security+tooling;Exploring+Web3+infrastructure" alt="Typing SVG" /></a>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8C-India%20%C2%B7%20IST-70a5fd?style=flat-square&labelColor=1a1b27" alt="India · IST" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Automation%20%26%20Security-7aa2f7?style=flat-square&labelColor=1a1b27" alt="Automation & Security" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Web3-bb9af7?style=flat-square&labelColor=1a1b27" alt="Web3" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧭 About
 
-- 🔭 I'm currently building **automation and security tooling** — bots, scanners, server scripts
-- 🌱 Learning **Web3** and blockchain infrastructure
-- 💬 Ask me about **Telegram bots, VirusTotal API, Bash, VPS automation**
-- ⚡ I care about simple, focused tools that just work
+<p align="center"><samp>I build practical tools that solve real problems —<br>bots that hunt malware, scripts that keep servers alive,<br>and apps that respect your privacy.</samp></p>
+
+- 🔭 **Currently building** — automation and security tooling: bots, scanners, server scripts
+- 🌱 **Learning** — Web3 and blockchain infrastructure
+- 💬 **Ask me about** — Telegram bots, VirusTotal API, Bash, VPS automation
+- ⚡ **Philosophy** — simple, focused tools that just work
 
 ---
 
@@ -79,6 +81,8 @@
 
 ## 📬 Connect
 
+<p align="center"><i>Building something interesting? My inbox is open —</i></p>
+
 <p align="center">
   <a href="https://github.com/ayusharyaneth"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ayusharyaneth"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
@@ -86,5 +90,10 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,55:70a5fd,100:bb9af7" alt="footer" />
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:70a5fd,100:bb9af7" alt="divider" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&style=flat-square&color=70a5fd&label=profile+views" alt="Profile views" />&nbsp;&nbsp;
+  <sub>© 2026 Ayush</sub>
 </p>
