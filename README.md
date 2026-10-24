@@ -2,9 +2,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/hero.svg" alt="Ayush — Developer · Automation & Security · Web3" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/India-IST%20%C2%B7%20UTC%2B5%3A30-292e42?style=flat-square&labelColor=1a1b27" alt="India · IST" />
-</p>
 
 ## 🧭 About
 
