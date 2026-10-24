@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b27,55:70a5fd,100:bb9af7&text=Ayush&fontSize=44&fontColor=c0caf5&fontAlignY=36&desc=Developer%20%C2%B7%20Automation%20%26%20Security%20%C2%B7%20Web3&descSize=15&descAlignY=54&animation=fadeIn" alt="Ayush — Developer · Automation & Security · Web3" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/banner.svg" alt="Ayush — Developer · Automation & Security · Web3" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:70a5fd,100:bb9af7" alt="divider" />
+  <img width="60%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/divider.svg" alt="divider" />
 </p>
 
 <p align="center">
