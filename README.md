@@ -6,7 +6,7 @@
 ## 🧭 About
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/about-card.svg" alt="About Ayush — what I build, what I'm learning, what to ask me about" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/about-terminal.svg" alt="About Ayush — terminal profile" />
 </p>
 
 ---
