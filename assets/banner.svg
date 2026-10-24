@@ -6,8 +6,10 @@
       <stop offset="1" stop-color="#bb9af7"/>
     </linearGradient>
   </defs>
-  <path d="M0,0 L0,70 C130,102 240,40 427,72 S640,112 854,68 L854,0 Z" fill="url(#g)" opacity="0.4"/>
-  <path d="M0,0 L0,96 C150,132 260,64 427,100 S660,138 854,92 L854,0 Z" fill="url(#g)"/>
-  <text x="427" y="84" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="1" fill="#c0caf5">Ayush</text>
-  <text x="427" y="122" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0.5" fill="#a9b1d6">Developer · Automation &amp; Security · Web3</text>
+  <rect width="854" height="190" fill="url(#g)"/>
+  <path d="M0,150 C150,120 260,182 427,152 S660,118 854,156 L854,190 L0,190 Z" fill="#1a1b27" opacity="0.3"/>
+  <path d="M0,166 C130,142 260,186 427,162 S640,138 854,170 L854,190 L0,190 Z" fill="#1a1b27" opacity="0.45"/>
+  <rect x="262" y="46" width="330" height="92" rx="14" fill="#1a1b27" opacity="0.55"/>
+  <text x="427" y="86" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="1" fill="#c0caf5">Ayush</text>
+  <text x="427" y="118" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.5" fill="#a9b1d6">Developer · Automation &amp; Security · Web3</text>
 </svg>
