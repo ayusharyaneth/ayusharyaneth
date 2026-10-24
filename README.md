@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/banner.svg" alt="Ayush — Developer · Automation & Security · Web3" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/banner.svg?v=2" alt="Ayush — Developer · Automation & Security · Web3" />
 </p>
 
 <p align="center">
