@@ -13,11 +13,24 @@ I build practical tools that solve real problems — Telegram bots that scan APK
 
 ## 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**vt-apk-scanner-bot**](https://github.com/ayusharyaneth/vt-apk-scanner-bot) | Telegram bot that scans every APK it receives via the VirusTotal API and replies with a full verdict report — with optional AI risk summaries | TypeScript |
-| [**vps-keepalive**](https://github.com/ayusharyaneth/vps-keepalive) | Root-free VPS heartbeat that logs uptime every 20 minutes from a persistent tmux session | Bash |
-| [**Acuranza**](https://github.com/ayusharyaneth/Acuranza) | Privacy-first, offline money tracker — auto-categorizes bank SMS, all data encrypted on-device | Android |
+<p align="center">
+  <a href="https://github.com/ayusharyaneth/vt-apk-scanner-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusharyaneth&repo=vt-apk-scanner-bot&theme=tokyonight&hide_border=true&show_owner=false" alt="vt-apk-scanner-bot — Telegram bot that scans APKs via the VirusTotal API" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ayusharyaneth/vps-keepalive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusharyaneth&repo=vps-keepalive&theme=tokyonight&hide_border=true&show_owner=false" alt="vps-keepalive — root-free VPS uptime heartbeat in pure Bash" />
+  </a>
+  <a href="https://github.com/ayusharyaneth/Acuranza">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusharyaneth&repo=Acuranza&theme=tokyonight&hide_border=true&show_owner=false" alt="Acuranza — privacy-first, offline-first money tracker" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ayusharyaneth?tab=repositories"><sub>→ browse all repositories</sub></a>
+</p>
 
 ## 🛠️ Tech Stack
 
