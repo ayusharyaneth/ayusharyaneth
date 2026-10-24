@@ -94,6 +94,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&style=flat-square&color=70a5fd&label=profile+views" alt="Profile views" />&nbsp;&nbsp;
   <sub>© 2026 Ayush</sub>
 </p>
