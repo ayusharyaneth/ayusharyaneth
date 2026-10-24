@@ -8,12 +8,9 @@
 
 ## 🧭 About
 
-<p align="center"><samp>I build practical tools that solve real problems —<br>bots that hunt malware, scripts that keep servers alive,<br>and apps that respect your privacy.</samp></p>
-
-- 🔭 **Currently building** — automation and security tooling: bots, scanners, server scripts
-- 🌱 **Learning** — Web3 and blockchain infrastructure
-- 💬 **Ask me about** — Telegram bots, VirusTotal API, Bash, VPS automation
-- ⚡ **Philosophy** — simple, focused tools that just work
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ayusharyaneth/ayush-here/main/assets/about-card.svg" alt="About Ayush — what I build, what I'm learning, what to ask me about" />
+</p>
 
 ---
 

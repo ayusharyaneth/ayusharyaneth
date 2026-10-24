@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="250" viewBox="0 0 854 250" role="img" aria-label="About Ayush">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#70a5fd"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <rect width="854" height="250" rx="4.5" fill="#1a1b27"/>
+  <rect x="36" y="36" width="3" height="42" rx="1.5" fill="url(#bar)"/>
+  <text x="52" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" fill="#c0caf5">I build practical tools that solve real problems —</text>
+  <text x="52" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" fill="#c0caf5">bots that hunt malware, scripts that keep servers alive, apps that respect your privacy.</text>
+  <line x1="36" y1="102" x2="818" y2="102" stroke="#292e42" stroke-width="1"/>
+  <text x="52" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#70a5fd">NOW BUILDING</text>
+  <text x="200" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c0caf5">Automation &amp; security tooling — bots, scanners, server scripts</text>
+  <text x="52" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#70a5fd">LEARNING</text>
+  <text x="200" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c0caf5">Web3 and blockchain infrastructure</text>
+  <text x="52" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#70a5fd">ASK ME ABOUT</text>
+  <text x="200" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c0caf5">Telegram bots, VirusTotal API, Bash, VPS automation</text>
+  <text x="52" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#70a5fd">PHILOSOPHY</text>
+  <text x="200" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c0caf5">Simple, focused tools that just work</text>
+</svg>
